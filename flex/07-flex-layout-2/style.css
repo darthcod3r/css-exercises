@@ -9,7 +9,7 @@ body {
 .header {
   height: 72px;
   background: darkmagenta;
-  color: white;
+  color: #FFFFFF;
   display: flex;
   align-items: center;
   padding-left: 16px;
